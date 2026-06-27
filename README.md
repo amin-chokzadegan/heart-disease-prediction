@@ -119,3 +119,8 @@ jupyter notebook Heart_Disease_Prediction.ipynb
 - XGBoost and Neural Network comparison
 - Cross-validation for more robust evaluation
 - SHAP values for deeper model explainability
+
+---
+
+## License
+MIT License — feel free to use and adapt with attribution.
